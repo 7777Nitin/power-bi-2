@@ -40,4 +40,4 @@ Total Profit 37K
 Total Quantity Sold 5615
 
 Repository Structure
-• Data:https://github.com/7777Nitin/power-bi-2/blob/main/Dashboard%20Image.png
+• Data<a :https://github.com/7777Nitin/power-bi-2/blob/main/Dashboard%20Image.png
